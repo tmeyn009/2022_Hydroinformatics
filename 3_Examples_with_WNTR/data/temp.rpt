@@ -1,0 +1,29 @@
+  Page 1                                    Wed Feb  3 18:47:33 2021
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Wed Feb  3 18:47:33 2021
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: Balancing the network:
+
+              Trial  1: relative flow change = 5.567573
+              Trial  2: relative flow change = 0.574880
+              Trial  3: relative flow change = 0.287106
+              Trial  4: relative flow change = 0.099794
+              Trial  5: relative flow change = 0.010153
+              Trial  6: relative flow change = 0.000110
+                        maximum  flow change = 0.0010 for Link p252
+                        maximum  head error  = 0.0000 for Link p16
+
+     0:00:00: Balanced after 6 trials
+     0:00:00: Reservoir R1 is emptying
+   
+  Analysis ended Wed Feb  3 18:47:33 2021
