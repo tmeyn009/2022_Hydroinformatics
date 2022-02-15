@@ -1,0 +1,9 @@
+Name,hydrant,outflow
+Scenario_1,206,25.0
+Scenario_2,105,20.0
+Scenario_3,204,25.0
+Scenario_4,141,15.0
+Scenario_5,219,20.0
+Scenario_6,197,15.0
+Scenario_7,215,20.0
+Scenario_8,159,20.0
