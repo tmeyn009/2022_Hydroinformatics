@@ -1,0 +1,131 @@
+City,lat,lng,Administration,Status,Population
+Stockholm,59.3294,18.0686,Stockholm,primary,972647
+Gothenburg,57.6717,11.981,Vaestra Goetaland,admin,604829
+Malmoe,55.5932,13.0214,Skane,admin,324002
+Uppsala,59.8498,17.6389,Uppsala,admin,165456
+Uppsala,59.8601,17.64,Stockholm,,133117
+Vaesteras,59.6173,16.5422,Vaestmanland,admin,128534
+Oerebro,59.2669,15.1965,Oerebro,admin,126009
+Linkoeping,58.4094,15.6257,Oestergoetland,admin,115672
+Helsingborg,56.0424,12.721,Skane,minor,113816
+Umea,63.8285,20.2706,Vaesterbotten,admin,90412
+Joenkoeping,57.7833,14.1667,Joenkoeping,admin,89780
+Norrkoeping,58.5919,16.1856,Oestergoetland,minor,88639
+Karlstad,59.3808,13.5016,Vaermland,admin,74141
+Sundsvall,62.3902,17.3067,Vaesternorrland,minor,73389
+Gaevle,60.667,17.1666,Gaevleborg,admin,68635
+Boras,57.7304,12.92,Vaestra Goetaland,minor,65008
+Vaexjoe,56.8837,14.8167,Kronoberg,admin,59600
+Halmstad,56.6754,12.8587,Halland,admin,55657
+Lulea,65.5838,22.1915,Norrbotten,admin,49123
+Oestersund,63.1775,14.6414,Jaemtland,admin,46178
+Trollhaettan,58.2671,12.3,Vaestra Goetaland,minor,44543
+Kalmar,56.6694,16.3218,Kalmar,admin,41388
+Borlaenge,60.4833,15.4167,Dalarna,minor,39422
+Moelndal,57.6542,12.0139,Vaestra Goetaland,minor,37233
+Falun,60.613,15.647,Dalarna,admin,36477
+Karlskrona,56.1611,15.5881,Blekinge,admin,35212
+Nykoeping,58.7582,17.0185,Soedermanland,admin,33916
+Kristianstad,56.0337,14.1333,Skane,minor,32188
+Skelleftea,64.65,20.85,Vaesterbotten,minor,31311
+Oernskoeldsvik,63.294,18.7122,Vaesternorrland,minor,27749
+Kiruna,67.8494,20.2544,Norrbotten,minor,26703
+Visby,57.629,18.3071,Gotland,admin,24942
+Huskvarna,57.7919,14.2756,Joenkoeping,,22000
+Vaenersborg,58.363,12.33,Vaestra Goetaland,minor,21835
+Haernoesand,62.6323,17.9379,Vaesternorrland,admin,18502
+Hoeganaes,56.196,12.5769,Skane,minor,16001
+Kinna,57.4954,12.6805,Vaestra Goetaland,minor,15448
+Mariestad,58.705,13.828,Vaestra Goetaland,minor,14891
+Mjoelby,58.3321,15.1312,Oestergoetland,minor,13947
+Bollnaes,61.3484,16.3883,Gaevleborg,minor,13398
+Mora,61.0096,14.5635,Dalarna,minor,12826
+Ulricehamn,57.7917,13.4186,Vaestra Goetaland,minor,11399
+Tibro,58.419,14.158,Vaestra Goetaland,minor,8614
+Habo,57.9066,14.0856,Joenkoeping,minor,8516
+Tidaholm,58.1794,13.9599,Vaestra Goetaland,minor,8146
+Stroemstad,58.9441,11.1864,Vaestra Goetaland,minor,7466
+Haparanda,65.8342,24.117,Norrbotten,minor,6554
+Hjo,58.3044,14.2786,Vaestra Goetaland,minor,6357
+Kungsoer,59.4227,16.1059,Vaestmanland,minor,5913
+Vargarda,58.0341,12.8083,Vaestra Goetaland,minor,5825
+Hjaerup,55.6707,13.141,Skane,,5591
+Toereboda,58.702,14.1184,Vaestra Goetaland,minor,4723
+Herrljunga,58.0752,13.0238,Vaestra Goetaland,minor,4075
+Kisa,57.9857,15.6305,Oestergoetland,minor,3813
+Svenljunga,57.496,13.1102,Vaestra Goetaland,minor,3774
+Karlsborg,58.5268,14.5231,Vaestra Goetaland,minor,3749
+Are,63.3938,12.9351,Jaemtland,,3430
+Tranemo,57.4838,13.3587,Vaestra Goetaland,minor,3323
+Glumsloev,55.9425,12.8079,Skane,,2253
+Sjuntorp,58.2002,12.2367,Vaestra Goetaland,,2158
+Andersloev,55.4378,13.3183,Skane,,1960
+Stenstorp,58.2727,13.7172,Vaestra Goetaland,,1794
+Oevertornea,66.3881,23.6436,Norrbotten,minor,1737
+Floby,58.1375,13.3365,Vaestra Goetaland,,1593
+Gullspang,58.9862,14.0956,Vaestra Goetaland,,1567
+Bralanda,58.5634,12.3492,Vaestra Goetaland,,1532
+Limmared,57.5379,13.3579,Vaestra Goetaland,,1484
+Kvaenum,58.2998,13.1875,Vaestra Goetaland,,1320
+Horred,57.357,12.4732,Vaestra Goetaland,,1261
+Saetila,57.5395,12.4393,Vaestra Goetaland,,1162
+Laenghem,57.6,13.2456,Vaestra Goetaland,,1111
+Villie,55.4789,13.5978,Skane,,1101
+Torekov,56.4197,12.6339,Skane,,1089
+Hortlax,65.2819,21.4054,Norrbotten,,1085
+Moelltorp,58.4965,14.4141,Vaestra Goetaland,,1084
+Vinninga,58.4521,13.2616,Vaestra Goetaland,,1055
+Vedum,58.1697,12.997,Vaestra Goetaland,,986
+Kinnarp,58.0779,13.5206,Vaestra Goetaland,,963
+Sexdrega,57.5789,13.1189,Vaestra Goetaland,,813
+Jaerpas,58.3796,12.974,Vaestra Goetaland,,790
+Stora Levene,58.3256,12.9251,Vaestra Goetaland,,790
+Velanda,58.2288,12.3099,Vaestra Goetaland,,783
+Timmele,57.8595,13.4289,Vaestra Goetaland,,772
+Sparreholm,59.0736,16.8234,Soedermanland,,736
+Hyssna,57.5573,12.5384,Vaestra Goetaland,,734
+Dalstorp,57.6023,13.5245,Vaestra Goetaland,,728
+Grimsas,57.4838,13.5503,Vaestra Goetaland,,723
+Sandhem,57.9868,13.7702,Vaestra Goetaland,,700
+Ardala,58.3613,13.3365,Vaestra Goetaland,,689
+Fagersanna,58.4619,14.2689,Vaestra Goetaland,,683
+Filsbaeck,58.4906,13.2497,Vaestra Goetaland,,667
+Varnhem,58.3857,13.6482,Vaestra Goetaland,,667
+Hoekerum,57.8398,13.2888,Vaestra Goetaland,,650
+Hillared,57.6296,13.1604,Vaestra Goetaland,,633
+Fraendefors,58.4928,12.2731,Vaestra Goetaland,,628
+Asarp,58.024,13.5651,Vaestra Goetaland,,607
+Klagstorp,55.3932,13.373,Skane,,599
+Vegby,57.6786,13.3722,Vaestra Goetaland,,597
+Gaellstad,57.6682,13.4299,Vaestra Goetaland,,597
+Sandhult,57.771,12.8219,Vaestra Goetaland,,571
+Blidsberg,57.9289,13.4926,Vaestra Goetaland,,561
+Bjoerketorp,57.427,12.5268,Vaestra Goetaland,,556
+Upphaerad,58.1581,12.3048,Vaestra Goetaland,,552
+Lerdala,58.4777,13.7144,Vaestra Goetaland,,540
+Vartofta,58.0957,13.629,Vaestra Goetaland,,532
+Arentorp,58.2423,12.8737,Vaestra Goetaland,,510
+Marbaeck,57.741,13.4219,Vaestra Goetaland,,510
+Oeverlida,57.3509,12.8992,Vaestra Goetaland,,498
+Ekedalen,58.1996,13.8407,Vaestra Goetaland,,483
+Travad,58.2504,13.0862,Vaestra Goetaland,,477
+Torbjoerntorp,58.2109,13.6017,Vaestra Goetaland,,457
+Rydal,57.5517,12.6922,Vaestra Goetaland,,434
+Gudhem,58.2268,13.5667,Vaestra Goetaland,,434
+Borgstena,57.8842,13.017,Vaestra Goetaland,,423
+Oestadkulle,58.0164,12.6425,Vaestra Goetaland,,409
+Torestorp,57.3892,12.6729,Vaestra Goetaland,,406
+Jung,58.3258,13.1102,Vaestra Goetaland,,396
+Berghem,57.464,12.5873,Vaestra Goetaland,,381
+Aelgaras,58.8125,14.2541,Vaestra Goetaland,,374
+Kebal,58.9486,11.0003,Vaestra Goetaland,,373
+Nedre Gaerdsjoe,60.9397,15.2268,Dalarna,,372
+Nitta,57.8277,13.1885,Vaestra Goetaland,,361
+Grangaerde,60.2667,14.9833,Dalarna,,351
+Skattungbyn,61.1848,14.8511,Dalarna,,350
+Furusjoe,57.9286,13.9606,Vaestra Goetaland,,346
+Rannavaeg,57.6769,13.4679,Vaestra Goetaland,,336
+Oestra Froelunda,57.343,13.0323,Vaestra Goetaland,,329
+Oexabaeck,57.3959,12.8046,Vaestra Goetaland,,326
+Forsvik,58.58,14.4342,Vaestra Goetaland,,323
+Fagerhult,58.0006,14.1238,Vaestra Goetaland,,322

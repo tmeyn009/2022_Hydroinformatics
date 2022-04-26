@@ -1,0 +1,295 @@
+City,lat,lng,Administration,Status,Population
+Oslo,59.9111,10.7528,Oslo,primary,693494
+Bergen,60.3925,5.3233,Hordaland,admin,257087
+Trondheim,63.44,10.4,Sor Trondelag,minor,183378
+Stavanger,58.9701,5.7333,Rogaland,admin,129300
+Drammen,59.7439,10.2045,Buskerud,minor,117510
+Kristiansand,58.1467,7.9956,Vest Agder,minor,111633
+Fredrikstad,59.2167,10.95,Ostfold,minor,82385
+Skien,59.2096,9.609,Telemark,admin,73330
+Sandefjord,59.1288,10.2197,Vestfold,,63764
+Asker,59.8331,10.4392,Akershus,minor,61523
+Nordre Fale,59.75,10.8667,Akershus,,59288
+Sandnes,58.85,5.7333,Rogaland,minor,58694
+Tonsberg,59.2981,10.4236,Vestfold,minor,56293
+Sarpsborg,59.2839,11.1096,Ostfold,minor,54678
+Alesund,62.4723,6.1549,More og Romsdal,minor,52163
+Bodo,67.2833,14.3833,Nordland,admin,51558
+Moss,59.434,10.6577,Ostfold,minor,49273
+Lorenskog,59.8989,10.9642,Akershus,minor,41460
+Tromso,69.6546,18.9637,Troms,admin,38980
+Haugesund,59.4102,5.2755,Rogaland,minor,37357
+Porsgrunn,59.1419,9.6568,Telemark,minor,36397
+Ringsaker,61.0242,10.8019,Hedmark,,34768
+Molde,62.7333,7.1833,More og Romsdal,admin,31967
+Halden,59.1264,11.4828,Ostfold,minor,31373
+Arendal,58.4617,8.7721,Aust Agder,admin,30916
+Ski,59.7419,10.8939,Akershus,minor,30843
+Askoy,60.4667,5.15,Hordaland,,29553
+Lillehammer,61.1146,10.4674,Oppland,minor,28345
+Hamar,60.7944,11.0678,Hedmark,admin,27947
+Kongsberg,59.665,9.6464,Buskerud,minor,27723
+Oppegard,59.7925,10.7903,Akershus,,27394
+Sola,58.88,5.6286,Rogaland,minor,27153
+Lier,59.8675,10.2142,Buskerud,minor,26811
+Eidsvoll,60.3475,11.2508,Akershus,,25436
+Nedre Eiker,59.7647,10.0333,Buskerud,,24963
+Larvik,59.0532,10.0271,Vestfold,,24647
+Nittedal,60.0731,10.8722,Akershus,minor,24249
+Stjordal,63.475,11.1708,Nord Trondelag,minor,24145
+Royken,59.7336,10.4289,Buskerud,minor,22635
+Notteroy,59.2011,10.4078,Vestfold,,21621
+Elverum,60.8833,11.5667,Hedmark,minor,21292
+Harstad,68.7989,16.5314,Troms,minor,21070
+Stange,60.6494,11.3664,Hedmark,minor,21064
+Gjovik,60.7957,10.6916,Oppland,minor,20589
+Horten,59.4172,10.4834,Vestfold,,20504
+As,59.6603,10.7836,Akershus,minor,20439
+Os,60.2269,5.4758,Hordaland,minor,19742
+Nesoddtangen,59.8086,10.6556,Oslo,minor,19616
+Kleppe,58.7772,5.5967,Rogaland,minor,19588
+Time,58.7228,5.7653,Rogaland,,18916
+Mo i Rana,66.3167,14.1667,Nordland,minor,18899
+Stord,59.8081,5.4664,Hordaland,minor,18759
+Kristiansund,63.1105,7.7279,More og Romsdal,minor,18273
+Sorum,59.9871,11.2402,Akershus,,18263
+Vestby,59.575,10.7319,Akershus,,18042
+Kosvik,58.1418,8.0802,Vest Agder,,17981
+Kongsvinger,60.1912,11.9992,Hedmark,minor,17829
+Rygge,59.3747,10.7147,Ostfold,minor,16145
+Frogn,59.6989,10.6553,Akershus,,15877
+Voss,60.7025,6.4231,Hordaland,minor,15740
+Lindas,60.6247,5.3283,Hordaland,,15607
+Mandal,58.0333,7.4833,Vest Agder,minor,15529
+Alta,69.9686,23.2714,Finnmark,minor,15342
+Verdal,63.7922,11.4817,Nord Trondelag,minor,14948
+Vennesla,58.3106,7.8569,Vest Agder,minor,14774
+Askim,59.5832,11.1629,Ostfold,minor,14488
+Malvik,63.3728,10.7508,Sor Trondelag,,14148
+Narvik,68.4383,17.4278,Nordland,minor,14148
+Nannestad,60.2456,10.9528,Akershus,minor,14139
+Bamble,59.0197,9.5608,Telemark,,14061
+Gran,60.4411,10.4956,Oppland,,13630
+Drobak,59.6667,10.6333,Akershus,,13393
+Grimstad,58.3405,8.5934,Aust Agder,minor,13304
+Notodden,59.5617,9.2658,Telemark,minor,13049
+Steinkjer,64.0147,11.4942,Nord Trondelag,admin,12985
+Strand,59.0633,6.0278,Rogaland,,12968
+Bomlo,59.7794,5.2183,Hordaland,,11957
+Sogndal,61.2297,7.1006,Sogn og Fjordane,minor,11847
+Stokke,59.24,10.2708,Vestfold,,11657
+Lenvik,69.3836,17.9675,Troms,,11618
+Egersund,58.45,6.0067,Rogaland,minor,11433
+Eidsberg,59.5369,11.3603,Ostfold,,11396
+Sogne,58.0942,7.7725,Vest Agder,minor,11260
+Randaberg,59.0017,5.6153,Rogaland,minor,11221
+Lommedalen,59.95,10.4667,Oslo,,11200
+Enebakk,59.7639,11.1444,Akershus,,11110
+Tysvaer,59.3617,5.5428,Rogaland,,11065
+Orsta,62.2003,6.1322,More og Romsdal,minor,10825
+Sortland,68.6962,15.4117,Nordland,minor,10566
+Volda,62.1468,6.068,More og Romsdal,minor,10473
+Kragero,58.8869,9.3469,Telemark,minor,10380
+Lyngdal,58.1333,7.0833,Vest Agder,minor,10365
+Forde,61.4519,5.8569,Sogn og Fjordane,minor,10339
+Levanger,63.7464,11.2996,Nord Trondelag,minor,10333
+Sande,59.5936,10.2076,Vestfold,,9904
+Fauske,67.2596,15.3941,Nordland,minor,9739
+Farsund,58.0828,6.7528,Vest Agder,minor,9691
+Haram,62.5675,6.3722,More og Romsdal,,9200
+Lunner,60.2528,10.6672,Oppland,,9048
+Flekkefjord,58.3272,6.6667,Vest Agder,minor,9028
+Floro,61.5986,5.0172,Sogn og Fjordane,minor,8925
+Ulstein,62.3564,5.8539,More og Romsdal,,8571
+Namsos,64.467,11.494,Nord Trondelag,minor,8471
+Rakkestad,59.3731,11.4203,Ostfold,minor,8255
+Hammerfest,70.6634,23.6821,Finnmark,minor,8073
+Lillesand,58.2488,8.3778,Aust Agder,minor,7930
+Akrehamn,59.2603,5.1856,Rogaland,,7873
+Meland,60.5642,5.1186,Hordaland,,7812
+Loten,60.8253,11.3908,Hedmark,minor,7674
+Sykkylven,62.3756,6.6442,More og Romsdal,minor,7625
+Holmestrand,59.4875,10.3175,Vestfold,,7514
+Rade,59.3489,10.855,Ostfold,minor,7508
+Alstahaug,65.9567,12.5728,Nordland,,7447
+Asnes,60.6536,12.1531,Hedmark,,7203
+Stryn,61.8386,6.8628,Sogn og Fjordane,minor,7130
+Sunndalsora,62.6128,8.6342,More og Romsdal,minor,7036
+Oppdal,62.5667,9.6,Sor Trondelag,minor,7001
+Jevnaker,60.2389,10.3931,Oppland,minor,6852
+Risor,58.7247,9.23,Aust Agder,minor,6809
+Svelvik,59.6236,10.3717,Vestfold,,6685
+Rissa,63.6556,10.0397,Sor Trondelag,minor,6644
+Trysil,61.31,12.315,Hedmark,minor,6627
+Vestnes,62.6213,7.0897,More og Romsdal,minor,6532
+Melhus,63.2856,10.2781,Sor Trondelag,minor,6517
+Mesoy,66.7881,13.6758,Nordland,,6288
+Bo,59.4572,9.0314,Telemark,minor,6101
+Klaebu,63.2761,10.5142,Sor Trondelag,minor,6067
+Sandnessjoen,66.0167,12.6333,Nordland,minor,6052
+Spydeberg,59.6153,11.0764,Ostfold,minor,6042
+Kvinesdal,58.3381,7.0231,Vest Agder,minor,5987
+Andebu,59.2972,10.105,Vestfold,,5937
+Surnadal,62.9475,8.77,More og Romsdal,minor,5920
+Vereide,61.7773,6.2156,Sogn og Fjordane,,5854
+Vadso,70.0733,29.7497,Finnmark,minor,5788
+Stavern,59,10.0333,Vestfold,,5773
+Sveio,59.5736,5.3633,Hordaland,minor,5766
+Valer,59.4725,10.9169,Ostfold,minor,5736
+Nord Fron,61.5956,9.7481,Oppland,,5723
+Tynset,62.2753,10.8325,Hedmark,minor,5578
+Vossevangen,60.63,6.441,Hordaland,,5571
+Balsfjord,69.3047,19.2036,Troms,,5559
+Hobol,59.5931,10.9458,Ostfold,minor,5382
+Trogstad,59.6514,11.3397,Ostfold,minor,5347
+Frei,63.0625,7.8031,More og Romsdal,,5274
+Austevoll,60.0378,5.2683,Hordaland,,5236
+Birkenes,58.4494,8.2333,Aust Agder,,5226
+Hareid,62.3642,6.0014,More og Romsdal,minor,5175
+Oyer,61.2653,10.4133,Oppland,minor,5100
+Hitra,63.5472,8.8547,Sor Trondelag,,5050
+Sand,60.4422,11.5681,Hedmark,,5016
+Odda,60.0689,6.5456,Hordaland,minor,4876
+Svolvaer,68.2333,14.5667,Nordland,minor,4686
+Al,60.6756,8.5769,Buskerud,minor,4674
+Skodje,62.5161,6.6997,More og Romsdal,minor,4620
+Gol,60.7503,8.9847,Buskerud,minor,4608
+Sauda,59.6875,6.4372,Rogaland,minor,4595
+Stranda,62.1667,6.9667,More og Romsdal,minor,4523
+Hol,60.615,8.3022,Buskerud,minor,4441
+Norheimsund,60.3667,6.1333,Hordaland,minor,4399
+Ringebu,61.5356,10.3081,Oppland,minor,4392
+Amot,61.1464,11.4158,Hedmark,,4356
+Sauar,59.4333,9.2653,Telemark,,4338
+Afjord,63.9778,10.3856,Sor Trondelag,,4288
+Hoyanger,61.1881,5.8956,Sogn og Fjordane,minor,4101
+Etne,59.6839,6.0475,Hordaland,minor,4062
+Selbu,63.1983,11.1403,Sor Trondelag,minor,4062
+Drangedal,59.1233,8.9819,Telemark,minor,4060
+Bardu,68.8606,18.3505,Troms,minor,4005
+Vaksdal,60.6069,5.8161,Hordaland,,3977
+Meldal,63.046,9.7109,Sor Trondelag,minor,3954
+Finnsnes,69.2406,18.0086,Troms,minor,3907
+Roros,62.5747,11.3842,Sor Trondelag,minor,3851
+Skiptvet,59.4806,11.1444,Ostfold,minor,3805
+Suldalsosen,59.4683,6.4997,Rogaland,,3804
+Vinje,59.8014,7.7792,Telemark,minor,3676
+Valer,60.6784,11.8331,Hedmark,minor,3662
+Tiller,63.3428,10.4261,Sor Trondelag,,3595
+Vaga,61.875,9.0958,Oppland,minor,3570
+Fosnavag,62.3417,5.6339,More og Romsdal,minor,3563
+Leksvik,63.6767,10.61,Nord Trondelag,,3531
+Kirkenes,69.7271,30.0451,Finnmark,minor,3529
+Aukra,62.805,6.8872,More og Romsdal,,3509
+Aure,63.2686,8.6078,More og Romsdal,minor,3507
+Eide,62.9157,7.445,More og Romsdal,minor,3467
+Sorreisa,69.0919,18.1936,Troms,minor,3464
+Sagvag,59.7753,5.3947,Hordaland,,3419
+Stokmarknes,68.5656,14.9058,Nordland,minor,3395
+Maloy,61.9333,5.1167,Sogn og Fjordane,minor,3313
+Nesbyen,60.5583,9.1011,Buskerud,minor,3273
+Fitjar,59.9189,5.3714,Hordaland,minor,3189
+Rjukan,59.8811,8.5831,Telemark,minor,3171
+Hov,59.5656,10.0361,Buskerud,,3163
+Sor Fron,61.5689,9.9233,Oppland,minor,3119
+Tingvoll,62.9,8.2,More og Romsdal,minor,3103
+Asgardstrand,59.35,10.4667,Vestfold,,3095
+Store Skanland,68.5836,16.573,Troms,,3041
+Askvoll,61.4058,5.2422,Sogn og Fjordane,minor,3011
+Brevik,59.0589,9.6875,Telemark,,3000
+Skjervoy,70.0853,20.6594,Troms,minor,2927
+Kautokeino,69.0115,23.0415,Finnmark,minor,2910
+Seljord,59.5133,8.6489,Telemark,minor,2888
+Orkanger,63.3122,9.8533,Sor Trondelag,minor,2874
+Austrheim,60.7711,4.9261,Hordaland,minor,2870
+Tysnes,59.9983,5.5772,Hordaland,,2869
+Hurdal,60.4158,11.0086,Akershus,minor,2854
+Naustdal,61.5606,5.8553,Sogn og Fjordane,minor,2840
+Dale,61.3061,5.4633,Sogn og Fjordane,minor,2802
+Bjerkreim,58.6569,6.1467,Rogaland,,2787
+Selje,62.1372,5.2231,Sogn og Fjordane,minor,2774
+Flesberg,59.8478,9.4822,Buskerud,,2688
+Karasjok,69.4722,25.5189,Finnmark,minor,2628
+Frosta,63.6039,10.7744,Nord Trondelag,minor,2627
+Rorvik,64.868,11.2053,Nord Trondelag,minor,2615
+Steigen,67.7983,15.1719,Nordland,,2608
+Tvedestrand,58.6219,8.9314,Aust Agder,minor,2592
+Hjelmeland,59.2172,6.4611,Rogaland,minor,2574
+Bo,68.6953,14.5794,Nordland,,2569
+Ballangen,68.3064,16.7442,Nordland,minor,2556
+Dovre,62.035,9.4675,Oppland,minor,2553
+Hemsedal,60.9058,8.5147,Buskerud,minor,2486
+Brattvag,62.6,6.4433,More og Romsdal,minor,2481
+Honningsvag,70.9758,25.9831,Finnmark,minor,2465
+Alvdal,62.1094,10.6344,Hedmark,minor,2432
+Meraker,63.4381,11.8494,Nord Trondelag,minor,2422
+Andalsnes,62.5672,7.6869,More og Romsdal,minor,2416
+Grong,64.5314,12.62,Nord Trondelag,minor,2359
+Siljan,59.2975,9.7064,Telemark,minor,2340
+Orskog,62.4789,6.8853,More og Romsdal,minor,2310
+Marnardal,58.2428,7.4969,Vest Agder,minor,2290
+Brekstad,63.687,9.6654,Sor Trondelag,minor,2230
+Lom,61.8108,8.6392,Oppland,minor,2228
+Batsfjord,70.4833,29.9333,Finnmark,minor,2221
+Laerdalsoyri,61.0511,7.5978,Sogn og Fjordane,minor,2126
+Vegarshei,58.7756,8.8322,Aust Agder,minor,2097
+Midsund,62.7086,6.7967,More og Romsdal,minor,2088
+Bronnoysund,65.4749,12.212,Nordland,minor,2064
+Snasa,64.2461,12.383,Nord Trondelag,minor,2063
+Lodingen,68.4042,15.5714,Nordland,minor,2034
+Rindal,63.0422,9.2894,More og Romsdal,minor,2003
+Lesja,62.2106,8.6447,Oppland,minor,1975
+Luroy,66.4319,12.855,Nordland,minor,1923
+Fagernes,60.985,9.2306,Oppland,minor,1921
+Os,62.4761,11.2431,Hedmark,minor,1891
+Vardo,70.3705,31.1095,Finnmark,minor,1846
+Nesna,66.2578,13.035,Nordland,minor,1761
+Otta,61.7706,9.5414,Oppland,minor,1737
+Kolvereid,64.8653,11.6044,Nord Trondelag,minor,1709
+Masfjordnes,60.8383,5.4486,Hordaland,minor,1691
+Namdalseid,64.2892,11.1764,Nord Trondelag,minor,1622
+Vang,61.2144,8.5042,Oppland,minor,1578
+Tolga,62.4014,11.0222,Hedmark,minor,1562
+Folldal,62.1992,10.0353,Hedmark,minor,1545
+Rollag,59.9839,9.2953,Buskerud,minor,1390
+Iveland,58.4411,7.9558,Aust Agder,minor,1331
+Hyllestad,61.1633,5.3389,Sogn og Fjordane,minor,1328
+Hattfjelldal,65.5475,14.1344,Nordland,minor,1297
+Balestrand,61.1775,6.4039,Sogn og Fjordane,minor,1294
+Fyresdal,59.1658,8.0197,Telemark,minor,1287
+Bruflat,60.9672,9.6536,Oppland,minor,1279
+Engerdal,61.8833,12.0333,Hedmark,minor,1268
+Forsand,58.9094,6.2011,Rogaland,minor,1238
+Hoylandet,64.7242,12.3339,Nord Trondelag,minor,1231
+Hornindal,61.9986,6.5842,More og Romsdal,minor,1200
+Valle,59.1642,7.4725,Aust Agder,minor,1164
+Bygland,58.8244,7.8019,Aust Agder,minor,1162
+Jondal,60.2683,6.3292,Hordaland,minor,1104
+Ulvik,60.6211,7.0803,Hordaland,minor,1080
+Fla,60.4086,9.4842,Buskerud,minor,1050
+Kvalsund,70.499,23.9739,Finnmark,minor,1035
+Stordal,62.39,7.1106,More og Romsdal,minor,1020
+Roa,60.2881,10.6,Oppland,minor,967
+Bykle,59.4431,7.255,Aust Agder,minor,965
+Roan,64.1503,10.3025,Sor Trondelag,minor,961
+Berlevag,70.857,29.093,Finnmark,minor,957
+Aseral,58.7019,7.3936,Vest Agder,minor,932
+Granvin,60.5269,6.7194,Hordaland,minor,920
+Eidfjord,60.4966,7.1411,Hordaland,minor,906
+Bokn,59.2003,5.4231,Rogaland,minor,852
+Namsskogan,64.8719,12.9764,Nord Trondelag,minor,843
+Kviteseid,59.4042,8.4911,Telemark,minor,790
+Tydal,63.0183,11.815,Sor Trondelag,minor,769
+Amli,58.7657,8.4839,Aust Agder,minor,690
+Romskog,59.7144,11.8086,Ostfold,minor,673
+Bagn,60.8167,9.5667,Oppland,minor,654
+Leka,65.0833,11.6336,Nord Trondelag,minor,557
+Fedje,60.7689,4.7306,Sogn og Fjordane,minor,548
+Kvitsoy,59.0622,5.4117,Rogaland,minor,517
+Rost,67.52,12.0989,Nordland,minor,498
+Vevelstad,65.6683,12.5186,Nordland,minor,462
+Royrvik,64.8838,13.5631,Nord Trondelag,minor,461
+Traena,66.5075,12.0308,Nordland,minor,435
+Burfjord,69.9378,22.0519,Troms,minor,384
+Gjerstad,58.8809,9.0175,Aust Agder,minor,264
+Utsira,59.3072,4.8861,Rogaland,minor,198
